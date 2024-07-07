@@ -13,7 +13,7 @@ Ten projekt zawiera nastepujące pliki:
  - figure.h - plik nagłówkowy, zawiera klasę abstrakcyjną Figure, z której dziedziczą konkretne figury, zawieraczysto wirtualną metodę draw
  - circle.h - plik nagłówkowy, definiuje klasę Circle i definiuje metody do rysowania okręgu
  - rectangle.h - plik nagłówkowy, definiuję klasę Rectangle i definiuje metody do rysowania prostokąta
- - square.h - plik nagłówkowy, definiuję klasę Square i definiuje metody do rysowania prostokąta
+ - square.h - plik nagłówkowy, definiuję klasę Square i definiuje metody do rysowania kwadratu
  - main.cpp - odpowiada za odczyt pliku konfiguracyjnego, inicjalizację obiektu ASCIICanvas, tworzenie i rysowanie figur geometrycznych na płótnie.
  - config.txt - przykładowy plik konfiguracyjny
 
