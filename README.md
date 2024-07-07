@@ -24,6 +24,7 @@ Aby pobrać projekt, sklonuj repozytorium za pomocą poniższej komendy:
 
 ### Kompilacja i użycie
  - Aby skompilować projekt użyj następującej komendy:
+   
 **g++ -o ascii_renderer main.cpp -std=c++14**
 
 - Uruchomienie programu:
