@@ -45,5 +45,5 @@ Aby pobrać projekt, sklonuj repozytorium za pomocą poniższej komendy:
      2. w następnej linijce podajemy dane współrzędne i wymiary figury
      - dla koła parametry po kolei to: współrzędna środka x, współrzędna środka y, promień
      - dla kwadratu parametry pokolei to: współrzędna lewego górnego rogu x, współrzędna lewego górnego rogu y, długość boku
-     - dla prostokątu parametry po kolei to: współrzędna lewego górnego rogu x, współrzędna lewego górnego rogu y, długość pierwszej pary boków(szerokość), długość drugiej pary boków (wysokość)
+     - dla prostokąta parametry po kolei to: współrzędna lewego górnego rogu x, współrzędna lewego górnego rogu y, długość pierwszej pary boków(szerokość), długość drugiej pary boków (wysokość)
      3. w linijce pod parametrami figury wpisz symbol oznaczający piksel należący do figury, użyj cudzysłowów (") dla znaków specjalnych i spacji
