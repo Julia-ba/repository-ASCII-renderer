@@ -19,6 +19,7 @@ Ten projekt zawiera nastepujące pliki:
 
 ### Jak pobrać
 Aby pobrać projekt, sklonuj repozytorium za pomocą poniższej komendy:
+
 **git clone https://github.com/Julia-ba/repository-ASCII-renderer.git**
 
 ### Kompilacja i użycie
