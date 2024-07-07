@@ -11,10 +11,10 @@ Ten projekt zawiera nastepujące pliki:
  - canvas.h - plik nagłówkowy, w którym implementujemy klasę abstrakcyjną Canvas, z której dziedziczy klasa ASCIICanvas
  - asciicanvas.h - plik nagłówkowy, w którym definiujemy klasę ASCIICanvas, która implementuje metody ustaw_pixel i zapisz
  - figure.h - plik nagłówkowy, zawiera klasę abstrakcyjną Figure, z której dziedziczą konkretne figury, zawiera czysto wirtualną metodę draw
- - circle.h - plik nagłówkowy, definiuje klasę Circle i definiuje metody do rysowania okręgu
- - rectangle.h - plik nagłówkowy, definiuje klasę Rectangle i definiuje metody do rysowania prostokąta
- - square.h - plik nagłówkowy, definiuje klasę Square i definiuje metody do rysowania kwadratu
- - main.cpp - odpowiada za odczyt pliku konfiguracyjnego, inicjalizację obiektu ASCIICanvas, tworzenie i rysowanie figur geometrycznych na płótnie.
+ - circle.h - plik nagłówkowy, definiuje klasę Circle i metody do rysowania okręgu
+ - rectangle.h - plik nagłówkowy, definiuje klasę Rectangle i metody do rysowania prostokąta
+ - square.h - plik nagłówkowy, definiuje klasę Square i metody do rysowania kwadratu
+ - main.cpp - odpowiada za odczyt pliku konfiguracyjnego, inicjalizację obiektu ASCIICanvas, tworzenie i rysowanie figur geometrycznych na płótnie
  - konfiguracyjny.txt - przykładowy plik konfiguracyjny
 
 ### Jak pobrać
