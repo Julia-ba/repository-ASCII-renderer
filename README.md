@@ -27,9 +27,11 @@ Aby pobrać projekt, sklonuj repozytorium za pomocą poniższej komendy:
 **g++ -o ascii_renderer main.cpp -std=c++14**
 
 - Uruchomienie programu:
+  
 **./ascii_renderer (wpisz nazwę swojego pliku konfiguracyjnego)**
 
  - Uruchomienie programu z przykładowym plikiem konfiguracyjnym - konfiguracyjny.txt:
+   
 **./ascii_renderer konfiguracyjny.txt**
 
  - Tworzenie pliku konfiguracyjnego:
