@@ -15,7 +15,7 @@ Ten projekt zawiera nastepujące pliki:
  - rectangle.h - plik nagłówkowy, definiuję klasę Rectangle i definiuje metody do rysowania prostokąta
  - square.h - plik nagłówkowy, definiuję klasę Square i definiuje metody do rysowania kwadratu
  - main.cpp - odpowiada za odczyt pliku konfiguracyjnego, inicjalizację obiektu ASCIICanvas, tworzenie i rysowanie figur geometrycznych na płótnie.
- - config.txt - przykładowy plik konfiguracyjny
+ - konfiguracyjny.txt - przykładowy plik konfiguracyjny
 
 ### Jak pobrać
 Aby pobrać projekt, sklonuj repozytorium za pomocą poniższej komendy:
